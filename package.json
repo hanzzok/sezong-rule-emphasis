@@ -1,6 +1,6 @@
 {
   "name": "sezong-rule-emphasis",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The rules for Sezong which target emphasis",
   "main": "index.js",
   "repository": "https://github.com/langsezong/sezong-rule-emphasis",
