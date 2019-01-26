@@ -1,0 +1,19 @@
+{
+  "name": "sezong-rule-emphasis",
+  "version": "0.1.0",
+  "description": "The rules for Sezong which target emphasis",
+  "main": "index.js",
+  "repository": "https://github.com/langsezong/sezong-rule-emphasis",
+  "author": "RanolP <public.ranolp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sezong": "^0.3.10"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "prettier": "^1.16.1",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.17.0",
+    "typescript": "^3.2.4"
+  }
+}
